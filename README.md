@@ -17,3 +17,6 @@ The model is training using Pytorch. The code is to be updated.
 
 ## Contact
 Any problems and suggestions are welcome. Please mail to Jingyi.Wang1903@student.xjtlu.edu.cn
+
+## Acknowledgment
+Thanks to Chengsen Dong (Master student in University of Glasgow since 2022). We discuss and get inspiration from each other. His github: [xddcode](https://github.com/xddcore).
