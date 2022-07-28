@@ -11,3 +11,9 @@ Please refer to this repository temporarily: [https://github.com/RoboBachelor/Au
 #### Usage:   
 - Press and hold **KEY2** to receive live audio and run audio feature generation, otherwise not run audio feature generation and a fixed sample speatrogram is used for inference.  
 - Press and hold **KEY0** to skip inference (used to measure the consumed power when CPU is relative free).
+
+## Training
+The model is training using Pytorch. The code is to be updated.
+
+## Contact
+Any problems and suggestions are welcome. Please mail to Jingyi.Wang1903@student.xjtlu.edu.cn
