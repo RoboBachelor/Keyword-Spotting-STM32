@@ -1,0 +1,10 @@
+extern float conv_weight[186][1][8][30];
+extern float conv_bias[186];
+extern float fc1_weight[32][1674];
+extern float fc1_bias[32];
+extern float fc2_weight[128][32];
+extern float fc2_bias[128];
+extern float fc3_weight[128][128];
+extern float fc3_bias[128];
+extern float fc4_weight[6][128];
+extern float fc4_bias[6];

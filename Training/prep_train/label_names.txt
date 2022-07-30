@@ -1,0 +1,6 @@
+background
+unknown
+left
+no
+right
+yes
