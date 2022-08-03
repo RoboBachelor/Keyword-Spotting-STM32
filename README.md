@@ -14,6 +14,8 @@ to [DCASE 2022 Workshop](https://dcase.community/workshop2022/index). You may re
 ## Training
 
 #### Environment:   Pytorch 10.1
+#### Dataset:  
+[Speech Command Dataset v0.01](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html). You don't have to download the full dataset since the preprocessed audio spectrograms are included in this repository. Put the dataset to `data/` and remove `prep_train/` and `prep_test/` folders to re-generate audio spectrograms when you modify the pre-processing functions.
 
 ## Contact
 Any problems and suggestions are welcome. Please mail to Jingyi.Wang1903@student.xjtlu.edu.cn
