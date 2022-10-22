@@ -1,7 +1,7 @@
 # Keyword Spotting on STM32 Microcontroller
 
 This is our experimental code for *Keyword Spotting System and Evaluation of Pruning and Quantization Methods on Low-Power Edge Microcontrollers* submitted 
-to [DCASE 2022 Workshop](https://dcase.community/workshop2022/index). You may refer to [paper on arxiv](https://arxiv.org/abs/2208.02765) for more information.
+to NCMMSC2022. You may refer to [paper on arxiv](https://arxiv.org/abs/2208.02765) for more information.
 
 ## Firmware
 
